@@ -1,0 +1,14 @@
+*.layout
+*.depend
+
+*.cscope_file_list
+
+obj/
+bin/
+build/
+
+*.o
+*.a
+*.so
+*.dll
+*.exe
