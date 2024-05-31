@@ -1,9 +1,9 @@
-#include "ejercicios/UNIDAD2/STRING/RepetirCaracter.cpp"
-
+//#include "ejercicios/UNIDAD2/STRING/RepetirCaracter.cpp"
+#include "ejercicios/UNIDAD2/STRING/LlenarConEspacios.cpp"
 int main()
 {
 
-    RepetirCaracter();
+    LlenarCadenaConEspacios();
 
     return 0;
 }

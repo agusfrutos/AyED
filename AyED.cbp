@@ -38,6 +38,7 @@
 		</Linker>
 		<Unit filename="ejercicios/UNIDAD1/EJ01.cpp" />
 		<Unit filename="ejercicios/UNIDAD1/EJ22.cpp" />
+		<Unit filename="ejercicios/UNIDAD2/STRING/LLenarConEspacios.cpp" />
 		<Unit filename="ejercicios/UNIDAD2/STRING/RepetirCaracter.cpp" />
 		<Unit filename="main.cpp" />
 		<Extensions>
