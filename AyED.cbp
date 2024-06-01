@@ -38,8 +38,10 @@
 		</Linker>
 		<Unit filename="ejercicios/UNIDAD1/EJ01.cpp" />
 		<Unit filename="ejercicios/UNIDAD1/EJ22.cpp" />
-		<Unit filename="ejercicios/UNIDAD2/STRING/LLenarConEspacios.cpp" />
+		<Unit filename="ejercicios/UNIDAD2/STRING/InvertirCadena.cpp" />
+		<Unit filename="ejercicios/UNIDAD2/STRING/LlenarConEspacios.cpp" />
 		<Unit filename="ejercicios/UNIDAD2/STRING/RepetirCaracter.cpp" />
+		<Unit filename="ejercicios/UNIDAD2/STRING/ToLowerChar.cpp" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
