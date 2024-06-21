@@ -1,5 +1,5 @@
 #include <iostream>
-#include "math.h"
+#include <math.h>
 
 #define FIN_EJERCICIO "*"
 
